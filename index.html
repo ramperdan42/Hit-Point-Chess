@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>HP PC</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<svg id = "canvas" width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="802" height="602" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g id="svgCanvas">
+  <title>Layer 1</title>
+     <style type="text/css">@font-face {
+
+                font-family: "Alumni Sans";
+                src: url('AlumniSans.ttf'); 
+
+}</style>
+  <rect id="boardPlateBackground" height="500" width="499" y="100" x="150" stroke-width="1.5" stroke="#000" fill="#b2b2b2"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" width="200" height="50" id="rulesBox"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="600" y="0" width="200" height="50" id="resetGameBox"/>
+    
+  <rect fill="#666666" stroke="#000" stroke-width="1.5" stroke-opacity="null" x="0" y="100" width="150" height="500" id="leftPiecesPanel"/>
+    
+  <rect fill="#666666" stroke="#000" stroke-width="1.5" x="650" y="100" width="150" height="500" id="rightPiecesPanel"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="107" width="61" height="61" id="A8"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="107" width="61" height="61" id="B8"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="107" width="61" height="61" id="C8"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="107" width="61" height="61" id="D8"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="107" width="61" height="61" id="E8"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="107" width="61" height="61" id="F8"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="107" width="61" height="61" id="G8"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="107" width="61" height="61" id="H8"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="156" y="168" width="61" height="61" id="A7"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="217" y="168" width="61" height="61" id="B7"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="168" width="61" height="61" id="C7"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="168" width="61" height="61" id="D7"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="168" width="61" height="61" id="E7"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="168" width="61" height="61" id="F7"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="168" width="61" height="61" id="G7"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="168" width="61" height="61" id="H7"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="229" width="61" height="61" id="A6"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="229" width="61" height="61" id="B6"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="229" width="61" height="61" id="C6"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="229" width="61" height="61" id="D6"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="229" width="61" height="61" id="E6"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="229" width="61" height="61" id="F6"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="229" width="61" height="61" id="G6"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="229" width="61" height="61" id="H6"/>
+    
+  <rect fill="#bf5f00" stroke-width="0" x="156" y="290" width="61" height="61" id="A5" stroke="#000"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="217" y="290" width="61" height="61" id="B5"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="290" width="61" height="61" id="C5"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="290" width="61" height="61" id="D5"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="290" width="61" height="61" id="E5"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="290" width="61" height="61" id="F5"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="290" width="61" height="61" id="G5"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="290" width="61" height="61" id="H5"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="351" width="61" height="61" id="A4"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="351" width="61" height="61" id="B4"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="351" width="61" height="61" id="C4"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="351" width="61" height="61" id="D4"/>
+
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="351" width="61" height="61" id="E4"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="351" width="61" height="61" id="F4"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="351" width="61" height="61" id="G4"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="351" width="61" height="61" id="H4"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="156" y="412" width="61" height="61" id="A3"/>
+    
+  <rect fill="#ffd4aa" stroke-width="0" x="217" y="412" width="61" height="61" id="B3" stroke="#000"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="412" width="61" height="61" id="C3"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="412" width="61" height="61" id="D3"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="412" width="61" height="61" id="E3"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="412" width="61" height="61" id="F3"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="412" width="61" height="61" id="G3"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="412" width="61" height="61" id="H3"/>
+
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" stroke-opacity="null" x="156" y="473" width="61" height="61" id="A2"/>
+  
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="473" width="61" height="61" id="B2"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="473" width="61" height="61" id="C2"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="473" width="61" height="61" id="D2"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="473" width="61" height="61" id="E2"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="473" width="61" height="61" id="F2"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="473" width="61" height="61" id="G2"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="473" width="61" height="61" id="H2"/>
+    
+  <rect fill="#bf5f00" stroke-width="0" x="156" y="534" width="61" height="61" id="A1" stroke="#000"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" stroke-opacity="null" x="217" y="534" width="61" height="61" id="B1"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="534" width="61" height="61" id="C1"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="534" width="61" height="61" id="D1"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="534" width="61" height="61" id="E1"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="534" width="61" height="61" id="F1"/>
+    
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="534" width="61" height="61" id="G1"/>
+    
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="534" width="61" height="61" id="H1"/>
+    
+  <rect stroke="#000" id="titleBox" height="100" width="404" x="199.5" stroke-width="1.5" fill="#4c4c4c"/>
+    
+  <text transform="matrix(5.36422 0 0 3.99409 -1274.39 -46.4885)" stroke="#000" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Alumni Sans" font-size="24" id="titleText" y="33.20478" x="278.73564" stroke-opacity="null" stroke-width="0" fill="#ffff00">HP Chess</text>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_8" y="33.05" x="634.93872" stroke-opacity="null" stroke-width="0" fill="#00ffff">Reset Game</text>
+  
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="107" width="61" height="61" id="leftSquare1"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="107" width="61" height="61" id="leftSquare9"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="168" width="61" height="61" id="leftSquare2"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="229" width="61" height="61" id="leftSquare3"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="290" width="61" height="61" id="leftSquare4"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="351" width="61" height="61" id="leftSquare5"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="412" width="61" height="61" id="leftSquare6"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="473" width="61" height="61" id="leftSquare7"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="534" width="61" height="61" id="leftsquare8"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="168" width="61" height="61" id="leftSquare10"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="229" width="61" height="61" id="leftSquare11"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="290" width="61" height="61" id="leftsquare12"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="351" width="61" height="61" id="leftSquare13"/>
+  
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="412" width="61" height="61" id="leftSquare14"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="473" width="61" height="61" id="leftSquare15"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="534" width="61" height="61" id="leftSquare16"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="107" width="61" height="61" id="rightSquare1"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="168" width="61" height="61" id="rightSquare2"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="229" width="61" height="61" id="rightSquare3"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="290" width="61" height="61" id="rightSquare4"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="351" width="61" height="61" id="rightSquare5"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="412" width="61" height="61" id="rightSquare6"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="473" width="61" height="61" id="rightSquare7"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="534" width="61" height="61" id="rightSquare8"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="107" width="61" height="61" id="rightSquare9"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="168" width="61" height="61" id="rightSquare10"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="229" width="61" height="61" id="rightSquare11"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="290" width="61" height="61" id="rightSquare12"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="351" width="61" height="61" id="rightSquare13"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="412" width="61" height="61" id="rightSquare14"/>
+    
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="473" width="61" height="61" id="rightSquare15"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="534" width="61" height="61" id="righSquare16"/>
+    
+  <path id="hpBox" d="m0,50l200,0l0,50l-200,0l0,-50z" opacity="undefined" stroke-width="1.5" stroke="#000" fill="#7f7f7f"/>
+    
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="603" y="50" width="200" height="50" id="attackBox"/>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="rulesText" y="33.05" x="290.46854" stroke-opacity="null" stroke-width="0" fill="#00ffff">Rules</text>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="hpText" y="63.09827" x="263.64254" stroke-opacity="null" stroke-width="0" fill="#00ffff">HP:</text>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="hpInfo" y="63.72427" x="292.90726" stroke-opacity="null" stroke-width="0" fill="#00ffff"> </text>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="attackText" y="64" x="628.8419" stroke-opacity="null" stroke-width="0" fill="#00ffff">Attack:</text>
+    
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="attackInfo" y="64.37636" x="682.84956" stroke-opacity="null" stroke-width="0" fill="#00ffff"> </text>
+
+  <!-- Promotion Input Box Section -->
+ <!-- <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="247.5" y="229" width="309" height="61" id="queenButton"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="247.5" y="290" width="309" height="61" id="rookButton"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="247.5" y="351" width="309" height="61" id="bishopButton"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="247.5" y="412" width="309" height="61" id="knightButton"/>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="queenSelectionText" x="474" y="178" stroke-opacity="null" stroke-width="0" fill="#00ffff">Queen</text>
+   <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="queenSelectionText" x="479" y="216" stroke-opacity="null" stroke-width="0" fill="#00ffff">Rook</text>
+   <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="queenSelectionText" x="472" y="254" stroke-opacity="null" stroke-width="0" fill="#00ffff">Bishop</text>
+   <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="queenSelectionText" x="473" y="292" stroke-opacity="null" stroke-width="0" fill="#00ffff">Knight</text> -->
+  
+    <!-- Pieces Section -->
+    <image href="Images/blackRook.png" height = "60" width = "60" x="156" y="107" id="blackRook1" onclick="rook(id)"/>
+
+    <image href="Images/blackKnight.png" height = "60" width = "60" x="217" y="107" id="blackKnight1" onclick="knight(id)"/>
+       
+    <image href="Images/blackBishop.png" height = "60" width = "60" x="278" y="107" id="blackBishop1" onclick="bishop(id)"/>
+
+    <image href="Images/blackQueen.png" height = "60" width = "60" x="339" y="107" id="blackQueen" onclick="queen(id)"/>
+
+    <image href="Images/blackKing.png" height = "60" width = "60" x="400" y="107" id="blackKing" onclick="king(id)"/>
+
+    <image href="Images/blackBishop.png" height = "60" width = "60" x="461" y="107" id="blackBishop2" onclick="bishop(id)"/>
+
+    <image href="Images/blackKnight.png" height = "60" width = "60" x="522" y="107" id="blackKnight2" onclick="knight(id)"/>
+
+    <image href="Images/blackRook.png" height = "60" width = "60" x="583" y="107" id="blackRook2" onclick="rook(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="156" y="168" id="blackPawn1" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="217" y="168" id="blackPawn2" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="278" y="168" id="blackPawn3" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="339" y="168" id="blackPawn4" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="400" y="168" id="blackPawn5" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="461" y="168" id="blackPawn6" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="522" y="168" id="blackPawn7" onclick="pawn(id)"/>
+
+    <image href="Images/blackPawn.png" height = "60" width = "60" x="583" y="168" id="blackPawn8" onclick="pawn(id)"/>
+
+    <image href="Images/whiteRook.png" height = "60" width = "60" x="156" y="534" id="whiteRook1" onclick="rook(id)"/>
+
+    <image href="Images/whiteKnight.png" height = "60" width = "60" x="217" y="534" id="whiteKnight1" onclick="knight(id)"/>
+
+    <image href="Images/whiteBishop.png" height = "60" width = "60" x="278" y="534" id="whiteBishop1" onclick="bishop(id)"/>
+
+    <image href="Images/whiteQueen.png" height = "60" width = "60" x="339" y="534" id="whiteQueen" onclick="queen(id)"/>
+
+    <image href="Images/whiteKing.png" height = "60" width = "60" x="400" y="534" id="whiteKing" onclick="king(id)"/>
+
+    <image href="Images/whiteBishop.png" height = "60" width = "60" x="461" y="534" id="whiteBishop2" onclick="bishop(id)"/>
+
+    <image href="Images/whiteKnight.png" height = "60" width = "60" x="522" y="534" id="whiteKnight2" onclick="knight(id)"/>
+
+    <image href="Images/whiteRook.png" height = "60" width = "60" x="583" y="534" id="whiteRook2" onclick="rook(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="156" y="473" id="whitePawn1" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="217" y="473" id="whitePawn2" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="278" y="473" id="whitePawn3" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="339" y="473" id="whitePawn4" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="400" y="473" id="whitePawn5" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="461" y="473" id="whitePawn6" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="522" y="473" id="whitePawn7" onclick="pawn(id)"/>
+
+    <image href="Images/whitePawn.png" height = "60" width = "60" x="583" y="473" id="whitePawn8" onclick="pawn(id)"/>
+
+   <!-- <image href="Images/blueCircle.png" height = "60" width = "60" x="583" y="412"/> -->
+    <text transform="matrix(5.36422 0 0 3.99409 -1274.39 -46.4885)" stroke="#000" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Alumni Sans" font-size="0" y="104" x="265.5" stroke-opacity="null" stroke-width="1" fill="#ffff00" id="gameOverText">Game Over</text> <!-- Font size will eventually be 29 -->
+ </g>
+</svg>
+<body>
+  <div id = "wrapper" class = "text"></div>
+  <script src="script.js"></script>
+</body>
+
+</html>

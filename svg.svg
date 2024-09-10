@@ -1,0 +1,129 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="802" height="602" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_89" height="500" width="499" y="100" x="150" stroke-width="1.5" stroke="#000" fill="#b2b2b2"/>
+  <rect fill="#fff" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="156" y="107.05" width="488" height="488" id="svg_6"/>
+  <rect fill="#fff" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="0" y="0" width="800" height="50" id="svg_10"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" width="200" height="50" id="svg_12"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="600" y="0" width="200" height="50" id="svg_13"/>
+  <rect fill="#666666" stroke="#000" stroke-width="1.5" stroke-opacity="null" x="0" y="100" width="150" height="500" id="svg_18"/>
+  <rect fill="#666666" stroke="#000" stroke-width="1.5" x="650" y="100" width="150" height="500" id="svg_19"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="107" width="61" height="61" id="svg_20"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="107" width="61" height="61" id="svg_21"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="107" width="61" height="61" id="svg_22"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="107" width="61" height="61" id="svg_23"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="107" width="61" height="61" id="svg_24"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="107" width="61" height="61" id="svg_25"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="107" width="61" height="61" id="svg_26"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="107" width="61" height="61" id="svg_27"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="156" y="168" width="61" height="61" id="svg_28"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="217" y="168" width="61" height="61" id="svg_29"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="168" width="61" height="61" id="svg_30"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="168" width="61" height="61" id="svg_31"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="168" width="61" height="61" id="svg_32"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="168" width="61" height="61" id="svg_33"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="168" width="61" height="61" id="svg_34"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="168" width="61" height="61" id="svg_35"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="229" width="61" height="61" id="svg_36"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="229" width="61" height="61" id="svg_37"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="229" width="61" height="61" id="svg_38"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="229" width="61" height="61" id="svg_39"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="229" width="61" height="61" id="svg_40"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="229" width="61" height="61" id="svg_41"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="229" width="61" height="61" id="svg_42"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="229" width="61" height="61" id="svg_43"/>
+  <rect fill="#fff" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="156" y="290" width="61" height="61" id="svg_44"/>
+  <rect fill="#bf5f00" stroke-width="0" x="156" y="290" width="61" height="61" id="svg_45" stroke="#000"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="217" y="290" width="61" height="61" id="svg_46"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="290" width="61" height="61" id="svg_47"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="290" width="61" height="61" id="svg_48"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="290" width="61" height="61" id="svg_49"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="290" width="61" height="61" id="svg_50"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="290" width="61" height="61" id="svg_51"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="290" width="61" height="61" id="svg_52"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="156" y="351" width="61" height="61" id="svg_53"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="351" width="61" height="61" id="svg_54"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="351" width="61" height="61" id="svg_55"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="351" width="61" height="61" id="svg_56"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="351" width="61" height="61" id="svg_57"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="351" width="61" height="61" id="svg_58"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="351" width="61" height="61" id="svg_59"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="351" width="61" height="61" id="svg_60"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="156" y="412" width="61" height="61" id="svg_61"/>
+  <rect fill="#ffd4aa" stroke-width="0" x="217" y="412" width="61" height="61" id="svg_62" stroke="#000"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="412" width="61" height="61" id="svg_63"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="412" width="61" height="61" id="svg_64"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="412" width="61" height="61" id="svg_65"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="412" width="61" height="61" id="svg_66"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="412" width="61" height="61" id="svg_67"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="412" width="61" height="61" id="svg_68"/>
+  <rect fill="#fff" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="156" y="473" width="61" height="61" id="svg_69"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="217" y="473" width="61" height="61" id="svg_70"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="278" y="473" width="61" height="61" id="svg_71"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" stroke-opacity="null" x="156" y="473" width="61" height="61" id="svg_72"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="339" y="473" width="61" height="61" id="svg_74"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="400" y="473" width="61" height="61" id="svg_75"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="461" y="473" width="61" height="61" id="svg_76"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="522" y="473" width="61" height="61" id="svg_77"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="583" y="473" width="61" height="61" id="svg_78"/>
+  <rect fill="#bf5f00" stroke-width="0" x="156" y="534" width="61" height="61" id="svg_79" stroke="#000"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" stroke-opacity="null" x="217" y="534" width="61" height="61" id="svg_80"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="278" y="534" width="61" height="61" id="svg_81"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="339" y="534" width="61" height="61" id="svg_82"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="400" y="534" width="61" height="61" id="svg_83"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="461" y="534" width="61" height="61" id="svg_84"/>
+  <rect fill="#bf5f00" stroke="#000" stroke-width="0" x="522" y="534" width="61" height="61" id="svg_85"/>
+  <rect fill="#ffd4aa" stroke="#000" stroke-width="0" x="583" y="534" width="61" height="61" id="svg_86"/>
+  <rect stroke="#000" id="svg_4" height="100" width="404" x="199.5" stroke-width="1.5" fill="#4c4c4c"/>
+  <text transform="matrix(5.36422 0 0 3.99409 -1274.39 -46.4885)" stroke="#000" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_3" y="33.20478" x="290.73564" stroke-opacity="null" stroke-width="0" fill="#ffff00">HP PC</text>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_8" y="33.05" x="634.93872" stroke-opacity="null" stroke-width="0" fill="#00ffff">Reset Game</text>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="107" width="61" height="61" id="svg_90"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="107" width="61" height="61" id="svg_91"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="168" width="61" height="61" id="svg_92"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="229" width="61" height="61" id="svg_93"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="290" width="61" height="61" id="svg_94"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="351" width="61" height="61" id="svg_95"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="412" width="61" height="61" id="svg_96"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="5" y="473" width="61" height="61" id="svg_97"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="5" y="534" width="61" height="61" id="svg_98"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="168" width="61" height="61" id="svg_99"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="229" width="61" height="61" id="svg_100"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="290" width="61" height="61" id="svg_101"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="351" width="61" height="61" id="svg_102"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="412" width="61" height="61" id="svg_103"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="84" y="473" width="61" height="61" id="svg_104"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="84" y="534" width="61" height="61" id="svg_105"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="107" width="61" height="61" id="svg_106"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="168" width="61" height="61" id="svg_107"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="229" width="61" height="61" id="svg_108"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="290" width="61" height="61" id="svg_109"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="351" width="61" height="61" id="svg_110"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="412" width="61" height="61" id="svg_111"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="655" y="473" width="61" height="61" id="svg_112"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="655" y="534" width="61" height="61" id="svg_113"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="107" width="61" height="61" id="svg_114"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="168" width="61" height="61" id="svg_115"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="229" width="61" height="61" id="svg_116"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="290" width="61" height="61" id="svg_117"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="351" width="61" height="61" id="svg_118"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="412" width="61" height="61" id="svg_119"/>
+  <rect fill="#4c4c4c" stroke="#000" stroke-width="1.5" x="734" y="473" width="61" height="61" id="svg_120"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="734" y="534" width="61" height="61" id="svg_121"/>
+  <path id="svg_2" d="m0,50l200,0l0,50l-200,0l0,-50z" opacity="undefined" stroke-width="1.5" stroke="#000" fill="#7f7f7f"/>
+  <rect fill="#7f7f7f" stroke="#000" stroke-width="1.5" x="603" y="50" width="200" height="50" id="svg_5"/>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_7" y="33.05" x="290.46854" stroke-opacity="null" stroke-width="0" fill="#00ffff">Rules</text>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_9" y="63.09827" x="263.64254" stroke-opacity="null" stroke-width="0" fill="#00ffff">HP:</text>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_11" y="63.72427" x="292.90726" stroke-opacity="null" stroke-width="0" fill="#00ffff">XXXXX</text>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_15" y="64" x="628.8419" stroke-opacity="null" stroke-width="0" fill="#00ffff">Attack:</text>
+  <text transform="matrix(1.6402 0 0 1.59743 -411.779 -13.4455)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="24" id="svg_16" y="64.37636" x="682.84956" stroke-opacity="null" stroke-width="0" fill="#00ffff">XXXXX</text>
+ </g>
+</svg>
